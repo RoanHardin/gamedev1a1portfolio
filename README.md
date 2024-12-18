@@ -1,4 +1,4 @@
-# Game Dev 1 Portfolio | Roan Hardin | contant info (mailto:hardinroan@gmail.com)
+# Game Dev 1 Portfolio | Roan Hardin | contact info (mailto:hardinroan@gmail.com)
 
 
 ## Term 1 Projects
