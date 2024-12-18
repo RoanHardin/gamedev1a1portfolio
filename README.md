@@ -9,10 +9,12 @@ A platformer game created by me, Grady, Memphis, Finn, and Riley
 
 ![image](https://github.com/user-attachments/assets/200b6915-f831-4f00-b870-bff7efaae102)
 
+Link to Reach the Clouds project (https://github.com/RoanHardin/GameDevTeam4)
 
 ### Shape Game
 
 A quick game made in my gaming development class to understand the principles of movement and object collision in games.
-Link to Reach the Clouds project (https://github.com/RoanHardin/GameDevTeam4)
+
+Link to Shape Game project (https://github.com/RoanHardin/Shape-Game)
 ## Term 2 Projects
 
