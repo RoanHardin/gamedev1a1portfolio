@@ -4,4 +4,4 @@
 ## Term 1 Projects
 
 ## Term 2 Projects
-[Roan P Hardin_Game Development Fundamentals_12162024.pdf](https://github.com/user-attachments/files/18152866/Roan.P.Hardin_Game.Development.Fundamentals_12162024.pdf)
+[Roan P Hardin_Game Development certificate](https://github.com/user-attachments/files/18152866/Roan.P.Hardin_Game.Development.Fundamentals_12162024.pdf)
