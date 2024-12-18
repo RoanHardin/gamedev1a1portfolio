@@ -1,6 +1,5 @@
-# Roan Hardin's Game Development Portfolio
-First year game development student interested in video games and rock climbing
-* Graduation date in 2027
+# Game Dev 1 Portfolio | Roan Hardin | contant info (mailto:hardinroan@gmail.com)
+
 
 ## Term 1 Projects
 
