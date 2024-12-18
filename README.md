@@ -9,6 +9,6 @@ A platformer game created by me, Grady, Memphis, Finn, and Riley
 
 ![image](https://github.com/user-attachments/assets/200b6915-f831-4f00-b870-bff7efaae102)
 
-Link to group 2 project (https://github.com/RoanHardin/GameDevTeam4)
+Link to Reach the Clouds project (https://github.com/RoanHardin/GameDevTeam4)
 ## Term 2 Projects
 
