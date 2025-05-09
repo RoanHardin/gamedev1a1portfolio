@@ -24,6 +24,8 @@ Link to Shape Game project (https://github.com/RoanHardin/Shape-Game)
 
 This is a 3d First person game being created by me and my group. My main role has been the audio design and helping out on other things when I can.
 
+[Audio Assets Created By Me](https://github.com/RoanHardin/gamedev1a1portfolio/tree/main/src/term2/Assets)
+
 [Link to Woodsmen Repository](https://github.com/rabiescats/Production-Team-1)
 
 ![image](https://github.com/user-attachments/assets/da01d687-a466-402d-b491-82b01175355f)
